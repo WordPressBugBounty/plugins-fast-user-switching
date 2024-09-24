@@ -1,0 +1,1 @@
+# plugins-fast-user-switching
