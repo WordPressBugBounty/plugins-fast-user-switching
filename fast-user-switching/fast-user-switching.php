@@ -2,9 +2,9 @@
 /**
  * Plugin Name:       Fast User Switching
  * Description:       Fast user switching between users and roles directly from the admin bar - switch from a list or search for users/roles by id, username, mail etc.
- * Version:           1.4.9
+ * Version:           1.4.10
  * Author:            Tikweb
- * Author URI:        http://www.tikweb.dk/
+ * Author URI:        http://www.tikweb.com/
  * Plugin URI:        http://www.tikweb.com/wordpress/plugins/fast-user-switching/
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
